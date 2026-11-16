@@ -1,0 +1,27 @@
+# Ignore everything by default
+/*
+
+# Whitelist these files specifically
+
+!/.github
+!/gradle
+!/src
+
+!/.cliff.toml
+!/.editorconfig
+!/.gitattributes
+!/.gitignore
+!/AGENTS.md
+!/build.gradle.kts
+!/checkstyle.xml
+!/CLAUDE.md
+!/eclipse-formatter.xml
+!/gradle.properties
+!/gradlew
+!/gradlew.bat
+!/HEADER
+!/LICENSE
+!/LICENSE_EXCEPTION.md
+!/README.md
+!/settings.gradle.kts
+!/shell.nix
